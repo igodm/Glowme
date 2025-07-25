@@ -1,0 +1,4 @@
+{
+  "title": { "greet": "Hi, {{name}}", "ask": "How was your day today?" },
+  "a": "a"
+}

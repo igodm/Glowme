@@ -1,0 +1,20 @@
+{
+  "title": { "greet": "Hi, {{name}}", "ask": "How was your day today?" },
+  "startJournaling": "Start Journaling",
+  "startChatting": "Chat with Kyo",
+  "turnOnMusic": "Relax with Music",
+  "emotionChart": "My Emotion Chart",
+  "meditate": "Meditate",
+  "journaled": "You journaled today — great job!",
+  "toJournal": "Log today’s story and feelings",
+  "setCurrentMood": "Set your current mood",
+  "kyoSugestion": "Why not relax with music?",
+  "Happy": "Happy",
+  "Sad": "Sad",
+  "Angry": "Angry",
+  "Anxious": "Anxious",
+  "Tired": "Tired",
+  "Calm": "Calm",
+  "Stressed": "Stressed",
+  "Loved": "Loved"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Glowme",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@10.13.1",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "prepare": "husky install"
+  }
+}
