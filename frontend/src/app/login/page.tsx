@@ -12,7 +12,7 @@ const Login = () => {
         <div className="h-full flex flex-col md:flex-row items-center justify-center md:justify-between p-4 gap-4 max-w-[1200px] mx-auto">
           <div className="md:flex md:flex-1 md:items-center md:justify-center md:text-7xl text-4xl">
             <div>
-              <div>Glowme – Your </div>
+              <div>Glowme - Your</div>
               <div>AI Diary Companion</div>
             </div>
           </div>
